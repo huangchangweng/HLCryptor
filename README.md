@@ -32,5 +32,5 @@ iOS 9.0 +, Xcode 7.0 +
   完成HLCryptor基础搭建
 
 # License
-HLNetworkManager is available under the MIT license. See the LICENSE file for more info.
+HLCryptor is available under the MIT license. See the LICENSE file for more info.
 
